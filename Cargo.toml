@@ -1,7 +1,20 @@
 [package]
 name = "chunin"
-version = "0.1.0"
+version = "0.0.1"
+description = "Checks Union"
+license = "LGPL-3.0-only"
 authors = ["Oleh Mazur <real.trolforever@gmail.com>"]
+readme = "README.md"
+homepage = "https://chunin.four-velocity.com/"
+repository = "https://github.com/Chunin-Org/chunin-rs.git"
+documentation = "https://chunin.four-velocity.com/rs"
+keywords = ["linter", "formatter", "quality"]
+categories = [
+    "command-line-utilities",
+    "config",
+    "development-tools",
+    "development-tools::testing",
+]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
